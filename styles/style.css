@@ -2,7 +2,8 @@
 /* CSS Document */
 
 body{
-	background:url(../images/bg.jpg) top left no-repeat;
+	/*background:url(../images/bg.jpg) top left no-repeat;*/
+	background:#205424 url('http://mat1.gtimg.com/www/mb/theme/qqfs/one_lhj/wrapBg.jpg') no-repeat top center fixed;
 	background-size:cover;
   }
 
@@ -41,7 +42,6 @@ body{
 }
 
 .page-navigation{
-	background:url(../images/bg.jpg) top left no-repeat;
 	display:none;
 	width:300px;
 	margin-left:auto;

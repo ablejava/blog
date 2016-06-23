@@ -41,6 +41,7 @@ body{
 }
 
 .page-navigation{
+	background:url(../images/bg.jpg) top left no-repeat;
 	display:none;
 	width:300px;
 	margin-left:auto;

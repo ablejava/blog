@@ -158,9 +158,9 @@ body{
 .deploy-navigation{
 	background-image:url(../images/misc/deploy-nav-round.png);
 	background-repeat:no-repeat;
-	width:55px;
-	height:55px;
-	background-size:55px 55px;
+	width:45px;
+	height:45px;
+	background-size:45px 45px;
 	float:right;
 	margin-right:20px;
 	margin-top:20px;
